@@ -1,5 +1,5 @@
 
-## Olá, sou João Victor Brum de Castro! 🤙🏾
+## Olá, meu nome é João Victor Brum de Castro! 🤙🏾
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCvDHh5Vab5rbiOx-oW_Yncg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
