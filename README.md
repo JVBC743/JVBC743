@@ -12,13 +12,6 @@
 
 <hr>
 
-![João Victor](https://github-readme-stats.vercel.app/api?username=JVBC743&show_icons=true&theme=gruvbox) 
-
-<hr><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVBC743&hide_progress=false)
-
-
 ## Tecnologias do meu dia a dia
 
 <div style="display: inline_block"><br>
