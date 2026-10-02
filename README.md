@@ -29,7 +29,7 @@ Atualmente, busco aprofundar meus conhecimentos em infraestrutura, redes, automa
 
 ## Fontes dos estilos
 
-Os emojis foram daqui: <a href = "https://emojipedia.org/call-me-hand-medium-dark-skin-tone">Emojis</a>
-Os símbolos, aqui: <a href = "https://simpleicons.org">Símbolos</a>
+Os emojis foram daqui: <a href = "https://emojipedia.org/call-me-hand-medium-dark-skin-tone">Emojis</a> <br>
+Os símbolos, aqui: <a href = "https://simpleicons.org">Símbolos</a> <br>
 A criação das badges, aqui: <a href = "https://shields.io/badges">Badges</a>
 
